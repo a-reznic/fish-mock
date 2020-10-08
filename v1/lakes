@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Gidigici",
+    "name": "Ghidighici",
     "geo": {
       "lat": 1.0,
       "lng": 1.0,
@@ -9,6 +9,10 @@
     },
     "price": {
       "one": "50 lei"
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
     }
   }
 ]
