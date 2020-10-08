@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Gidigici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": {
+      "one": "50 lei"
+    }
+  }
+]
