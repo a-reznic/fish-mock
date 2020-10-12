@@ -15,6 +15,7 @@
       "title": "title",
       "content": "content"
     },
+    "details":"details",
     "contact": {
       "name": "Ion",
       "phone": "+373 77777777"
