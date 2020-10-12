@@ -8,11 +8,27 @@
       "google_link": ""
     },
     "price": {
-      "one": "50 lei"
+      "12h": "50 lei",
+      "24h": "100 lei"
+    },
+    "details": {
+      "title": "title",
+      "content": "content"
     },
     "contact": {
       "name": "Ion",
       "phone": "+373 77777777"
-    }
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
   }
 ]
