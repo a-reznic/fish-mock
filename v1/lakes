@@ -10,6 +10,7 @@
     "price": {
       "one": "50 lei"
     },
+    "details":"details",
     "contact": {
       "name": "Ion",
       "phone": "+373 77777777"
