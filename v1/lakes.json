@@ -7,13 +7,408 @@
       "lng": 1.0,
       "google_link": ""
     },
-    "price": {
-      "12h": "50 lei",
-      "24h": "100 lei"
-    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
     "details": {
       "title": "title",
-      "content": "content"
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 2,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 3,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 4,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 5,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 6,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
+    },
+    "contact": {
+      "name": "Ion",
+      "phone": "+373 77777777"
+    },
+    "photos": [
+      {
+        "id": 1,
+        "path": ""
+      },
+      {
+        "id": 2,
+        "path": ""
+      }
+    ],
+    "photo_thumb": ""
+  },
+  {
+    "id": 7,
+    "name": "Ghidighici",
+    "geo": {
+      "lat": 1.0,
+      "lng": 1.0,
+      "google_link": ""
+    },
+    "price": [
+      {
+        "period": "2020-01-01 2020-06-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      },
+      {
+        "period": "2020-07-01 2020-12-31",
+        "hour12": "50 lei",
+        "hour24": "100 lei"
+      }
+    ],
+    "details": {
+      "title": "title",
+      "content": "content",
+      "specii": [
+        {
+          "name": "carp"
+        },
+        {
+          "name": "caras"
+        }
+      ]
+    },
+    "catch_time": {
+      "day": true,
+      "night": false,
+      "days": {
+        "day1": true,
+        "day2": true,
+        "day3": true,
+        "day4": true,
+        "day5": true,
+        "day6": true,
+        "day7": true
+      }
     },
     "contact": {
       "name": "Ion",
